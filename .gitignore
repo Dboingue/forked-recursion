@@ -1,4 +1,8 @@
-/hanoi/previous/
 recursion.txt
 recursion.iml
 /.idea/
+/collatz/.idea/
+/collatz/__pycache__/
+/factorial/__pycache__/
+/hanoi/previous/
+/hanoi/.idea/
